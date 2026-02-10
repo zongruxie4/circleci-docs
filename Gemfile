@@ -21,6 +21,6 @@ group :jekyll_plugins do
 end
 
 group :test, :development do
-  gem 'pronto', '>= 0.11.4'
+  gem 'pronto', '>= 0.11.5'
   gem 'pronto-markdownlint'
 end
